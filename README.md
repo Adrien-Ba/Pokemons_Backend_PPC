@@ -12,4 +12,9 @@ Faire se combattre les équipes de pokémons entre elles : l'api renverrai le r�
 
 Optionel : Système d'achat de pokémons suite au gain de pièces lors de combats contre des bots. 
 
+## MicroServices
 
+- Service lié a l'utilisateur
+- Service lié aux pokémons (liste, statistiques ...)
+- Service lié aux combats entre pokémons
+- Service lié au système d'achat / vente de cartes pokémons (optionel)
