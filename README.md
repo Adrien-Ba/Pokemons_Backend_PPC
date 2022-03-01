@@ -8,7 +8,8 @@ Créer un utilisateur (dresseur pokémon) pour avoir accès a la création d'éq
 
 Constituer son équipe de 6 pokémons, avec possibilité de les changer, en supprimer, en ajouter dans son équipe. Ou possibilité de faire un tirage aléatoire de 6 pokémons. 
 
-Optionel : Faire se combattre les équipes de pokémons entre elles : l'api renverrai le résultat pour chaque combat entre pokémons<br/>
+Faire se combattre les équipes de pokémons entre elles : l'api renverrai le résultat pour chaque combat entre pokémons
+
 Optionel : Système d'achat de pokémons suite au gain de pièces lors de combats contre des bots. 
 
 
